@@ -1,12 +1,15 @@
 ![MasterHead](https://github.com/DhaivatV/DhaivatV/blob/main/Screenshot%20from%202021-12-11%2005-20-45.png) 
 
-<h1 align="center">I am student by day and AI/ML nerd by the night.</h3>
-<br></br>
-<br></br>
-<img align="right" alt="coding" width=400 src="https://github.com/DhaivatV/DhaivatV/blob/main/coding.gif">
-<h3>Currently I am exploring Generative adversarial network & Variational Autoencoder</h3>
+<h1 align="center">I AM STUDENT BY THE DAY AND AI/ML NERD BY THE NIGHT.</h3>
 
-<h3>Ask me about Python, Machine Learning, Deep Learning, Django, Django Rest Framework</h3>
+<img align="right" alt="coding" width=400 src="https://github.com/DhaivatV/DhaivatV/blob/main/coding.gif">
+<br></br>
+
+<br></br>
+
+<h3>Currently I am exploring Generative adversarial network & Variational Autoencoder</h3>
+<h3>Some topics which I wish to explore real soon are Natural Languge  Processing, Blockchain, Java, Javascript, React and Ruby . </h3>
+<h3>I have experience in  Python, Machine Learning, Deep Learning, Django, Django Rest Framework</h3>
 <br></br>
 <br></br>
 <h3 align="left">Languages and Tools:</h3>
@@ -23,11 +26,13 @@
 <br></br>
 
 
+
 <br></br>
 <br></br>
 <br></br>
 <br></br>
 <br></br>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
