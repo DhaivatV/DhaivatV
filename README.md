@@ -37,13 +37,16 @@
 <br></br>
 <br></br>
 
-
+<img align="right" alt="coding" width=450 src="https://github.com/DhaivatV/DhaivatV/blob/main/76038-contact-mail.gif">
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://linkedin.com/in/dhaivat vipat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaivat vipat" height="30" width="40" /></a>&emsp;
 <a href="https://www.hackerrank.com/dv9148" target="blank"><img align="center" src="https://github.com/DhaivatV/DhaivatV/blob/main/hackerrank.svg" alt="dv9148" height="45" width="40" /></a>
 </p>
+
 <br></br>
+
 <h3 align="left">Contact Me:</h3>
 <p><img align="center" src="https://github.com/DhaivatV/DhaivatV/blob/main/icons8-gmail.svg" alt="dhaivat vipat" height="50" width="45"/> &emsp;<b>Vipatdhaivat25@gmail.com</b></p>
 <p><img align="center" src="https://github.com/DhaivatV/DhaivatV/blob/main/icons8-instagram.svg" alt="dhaivat vipat" height="50" width="45"/> &emsp;<b>dhaivatv.07</b></p>
