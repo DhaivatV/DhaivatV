@@ -16,9 +16,9 @@
 <br></br>
 
 <br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaivatv&show_icons=true&locale=en&layout=compact" alt="dhaivatv" /></p>
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaivatv&" alt="dhaivatv" />
-<br></br>
+
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaivatv&" alt="dhaivatv" />
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaivatv&show_icons=true&locale=en&layout=compact" alt="dhaivatv" /></p>
 <br></br>
 <br></br>
 <br></br>
