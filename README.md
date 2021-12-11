@@ -4,7 +4,6 @@
 
 <img align="right" alt="coding" width=400 src="https://github.com/DhaivatV/DhaivatV/blob/main/coding.gif">
 <br></br>
-
 <br></br>
 
 <h3>Currently I am exploring Generative adversarial network & Variational Autoencoder</h3>
