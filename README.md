@@ -17,7 +17,7 @@
 
 <br></br>
 
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaivatv&" alt="dhaivatv" />
+<img align="left" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=dhaivatv&" alt="dhaivatv" />
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaivatv&show_icons=true&locale=en&layout=compact" alt="dhaivatv" /></p>
 <br></br>
 <br></br>
