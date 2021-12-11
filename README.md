@@ -19,10 +19,12 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaivatv&show_icons=true&locale=en&layout=compact&theme=dracula" alt="dhaivatv" />
 <br></br>
 <br></br>
-<img align="left" alt="coding" width=350 height=300 src="https://github.com/DhaivatV/DhaivatV/blob/main/prog.gif">
+<img align="left" alt="coding" width=295 height=300 src="https://github.com/DhaivatV/DhaivatV/blob/main/prog.gif">
   
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhaivatv&show_icons=true&locale=en&theme=dracula" alt="dhaivatv" /></p>
 <p></p>
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 <br></br>
