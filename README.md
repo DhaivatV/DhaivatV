@@ -33,6 +33,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhaivat vipat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhaivat vipat" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/dv9148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dv9148" height="30" width="40" /></a>
+<a href="https://www.hackerank.com/dv9148" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="dv9148" height="30" width="40" /></a>
 </p>
 <br></br>
