@@ -51,3 +51,4 @@
 <p><img align="center" src="https://github.com/DhaivatV/DhaivatV/blob/main/icons8-gmail.svg" alt="dhaivat vipat" height="50" width="45"/> &emsp;<b>Vipatdhaivat25@gmail.com</b></p>
 <p><img align="center" src="https://github.com/DhaivatV/DhaivatV/blob/main/icons8-instagram.svg" alt="dhaivat vipat" height="50" width="45"/> &emsp;<b>dhaivatv.07</b></p>
 <p><img align="center" src="https://github.com/DhaivatV/DhaivatV/blob/main/icons8-discord.svg" alt="dhaivat vipat" height="50" width="45"/> &emsp;<b>Dhaivat#4531</b></p>
+<p align="left" >< img src="https://komarev.com/ghpvc/?username=DhaivatV&label=Profile%20views&color=0e75b6&style=flat" alt="DhaivatV" /> </p>
