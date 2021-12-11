@@ -20,7 +20,7 @@
 <br></br>
 <br></br>
 <img align="left" alt="coding" width=350 height=300 src="https://github.com/DhaivatV/DhaivatV/blob/main/prog.gif">
-  <br></br>
+  
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhaivatv&show_icons=true&locale=en&theme=dracula" alt="dhaivatv" /></p>
 <p></p>
 <br></br>
