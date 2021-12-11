@@ -24,14 +24,9 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhaivatv&show_icons=true&locale=en&theme=dracula" alt="dhaivatv" /></p>
 <p></p>
 <br></br>
+<br></br>
+<br></br>
 
-
-
-<br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
 
 
 <h3 align="left">Connect with me:</h3>
