@@ -16,18 +16,15 @@
 <br></br>
 
 <br></br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaivatv&show_icons=true&locale=en&layout=compact" alt="dhaivatv" />
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaivatv&" alt="dhaivatv" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhaivatv&show_icons=true&locale=en&layout=compact" alt="dhaivatv" /></p>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhaivatv&" alt="dhaivatv" />
 <br></br>
 <br></br>
 <br></br>
 <br></br>
 <br></br>
 <br></br>
-<br></br>
-<br></br>
-<br></br>
-<br></br>
+
 <img align="left" alt="coding" width=295 height=300 src="https://github.com/DhaivatV/DhaivatV/blob/main/prog.gif">
  
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhaivatv&show_icons=true&locale=en" alt="dhaivatv" /></p>
