@@ -6,7 +6,7 @@
 <br></br>
 <br></br>
 <ul>
-<li><h3>Currently I am exploring Generative adversarial network & Variational Autoencoder</h3></li>
+<li><h3>Currently I am exploring Generative Adversarial Networks & Variational Autoe-Encoders</h3></li>
 <li><h3>Some topics which I wish to explore real soon are Natural Languge  Processing, Blockchain, Java, Javascript, React and Ruby . </h3></li>
 <li><h3>I have experience in  Python, Machine Learning, Deep Learning, Django and Django Rest Framework</h3></li>
  </ul>
