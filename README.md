@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/DhaivatV/DhaivatV/blob/main/Screenshot%20from%202021-12-11%2005-20-45.png) 
 
-<h1 align="center">I AM STUDENT BY THE DAY AND AI/ML NERD BY THE NIGHT.</h3>
+<h1 align="center">I AM STUDENT BY THE DAY AND TECH NERD BY THE NIGHT.</h3>
 
 <img align="right" alt="coding" width=400 src="https://github.com/DhaivatV/DhaivatV/blob/main/coding.gif">
 <br></br>
